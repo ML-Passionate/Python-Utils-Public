@@ -4,6 +4,8 @@ Utilitários Python públicos
 # MarkDown.MD
 Arquivo de referência da linguagem MarkDown
 
+Nota: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 # Analize-CSV-file.ipynb
 * Scatter Plot:
 If 'Y' or 'y' exists, the scatter plot will have points colored based on the values in that column.
