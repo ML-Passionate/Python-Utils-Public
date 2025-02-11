@@ -1,7 +1,7 @@
 # Python-Utils-Public
 Utilitários Python públicos
 
-# Analize-CSV-file.ipnb
+# Analize-CSV-file.ipynb
 * Scatter Plot:
 If 'Y' or 'y' exists, the scatter plot will have points colored based on the values in that column.
 If 'Y' or 'y' does not exist, the scatter plot will be a standard plot without classification.
