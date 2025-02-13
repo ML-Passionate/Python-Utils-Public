@@ -10,4 +10,4 @@ Nota: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 Instruções básicas do [Jupyter Notebook](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/Jupyter_instructions.ipynb)
 
 ## CHATGPT.md
-Sugestões de Propmt engenieering para o [ChatGPT](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/CHATGPT.md)
+Sugestões de Propmt engenieering para o [ChatGPT](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/CHATGPT.MD)
