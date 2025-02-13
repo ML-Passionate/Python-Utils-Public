@@ -7,5 +7,5 @@ Arquivo de referência da linguagem [Markdown](https://github.com/ML-Passionate/
 Nota: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## JUPYTER_INSTRUCTIONS.ipynb
-Instruções básicas do Jupyter Notebook
+Instruções básicas do [Jupyter Notebook](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/Jupyter_instructions.ipynb)
 
