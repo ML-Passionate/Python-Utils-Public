@@ -9,6 +9,3 @@ Nota: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 ## JUPYTER_INSTRUCTIONS.ipynb
 Instruções básicas do Jupyter Notebook
 
-## PANDAS.md
-Cheat code das funções do Pandas
-
