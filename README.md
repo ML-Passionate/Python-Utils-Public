@@ -13,4 +13,4 @@ Instruções básicas do [Jupyter Notebook](https://github.com/ML-Passionate/Pyt
 Instruções pásicas do [Python](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/images/PythonCheatSheet.png)
 
 ## CHATGPT.md
-Sugestões de Propmt engenieering para o [ChatGPT](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/CHATGPT.MD)
+Sugestões de Prompt engenieering para o [ChatGPT](https://github.com/ML-Passionate/Python-Utils-Public/blob/main/CHATGPT.MD)
